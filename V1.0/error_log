@@ -1,0 +1,1317 @@
+[27-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 13:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 14:18:49 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 14:18:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 14:18:49 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 14:18:49 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 14:18:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 14:26:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on array in /home/zulfumehmet/public_html/doviz/index.php:348
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 348
+[27-Mar-2019 14:27:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/index.php:349
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 349
+[27-Mar-2019 14:27:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/index.php:349
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 349
+[27-Mar-2019 14:28:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/index.php:349
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 349
+[27-Mar-2019 14:30:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/index.php:360
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 360
+[27-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 14:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:35 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:35 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:35 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:35 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:35 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:36 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:36 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:37 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:38 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:38 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:38 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:38 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:38 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:46:40 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 15:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 16:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 17:12:22 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:12:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:12:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function ara() in /home/zulfumehmet/public_html/doviz/boot1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/boot1.php on line 10
+[27-Mar-2019 17:12:43 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:12:43 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:12:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function ara() in /home/zulfumehmet/public_html/doviz/boot1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/boot1.php on line 10
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: daveri in /home/zulfumehmet/public_html/doviz/boot1.php on line 13
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 19
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 19
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 20
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 20
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 21
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 21
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 22
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 22
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 23
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 23
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 24
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 24
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 25
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 25
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 26
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 26
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 27
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 27
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 28
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 28
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 29
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 29
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 30
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 30
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[27-Mar-2019 17:18:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[27-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[27-Mar-2019 17:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[27-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[27-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[28-Mar-2019 07:46:27 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:46:27 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 41
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 41
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 42
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 42
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 43
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 43
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 44
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 44
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 45
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 45
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 46
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 46
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 75
+[28-Mar-2019 07:46:28 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 75
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 07:47:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 07:47:45 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:47:45 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 07:47:46 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 08:59:01 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 73
+[28-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[28-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 80
+[28-Mar-2019 09:13:54 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:13:54 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:13:56 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot.php on line 392
+[28-Mar-2019 09:13:56 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot.php on line 407
+[28-Mar-2019 09:13:56 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:13:56 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:17:12 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:17:12 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:17:14 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:17:14 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:17:14 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:02 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 09:19:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 09:19:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 09:19:08 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:08 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:11 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:19:11 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:11 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:27 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:27 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:29 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:19:29 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:29 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:30 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:19:32 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:19:32 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:19:32 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:20:07 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:20:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:20:09 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:20:09 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:20:09 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:20:10 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:20:10 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:20:12 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:20:12 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:20:12 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 5
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 47
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 48
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 49
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 50
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: dankron_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 51
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 52
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 53
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 54
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: kwd_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 55
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 56
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 57
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/boot1.php on line 58
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 09:52:16 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot1.php on line 81
+[28-Mar-2019 09:52:17 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:17 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:19 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:52:19 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:19 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:21 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:21 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:23 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:52:23 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:47 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:47 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:49 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:52:49 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:50 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:50 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:52:53 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:52:53 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:52:53 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:53:36 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:53:36 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:53:38 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:53:38 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:53:38 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 09:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:20 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:20 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:23 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 10:02:23 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:23 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:25 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 10:02:25 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:25 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:26 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:26 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:02:28 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 10:02:28 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:02:28 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 10:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 11:13:32 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/zulfumehmet/public_html/doviz/index.php on line 71
+[28-Mar-2019 11:13:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/zulfumehmet/public_html/doviz/index.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 71
+[28-Mar-2019 11:13:34 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/zulfumehmet/public_html/doviz/index.php on line 71
+[28-Mar-2019 11:13:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/zulfumehmet/public_html/doviz/index.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 71
+[28-Mar-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 11:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 11:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 11:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 12:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 13:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 14:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 14:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 14:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 15:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 15:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 15:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 16:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 16:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 16:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[28-Mar-2019 17:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[28-Mar-2019 17:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[28-Mar-2019 17:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 08:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 09:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 10:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 11:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 11:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 11:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 12:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 13:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 14:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 14:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 14:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 15:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 15:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 15:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 16:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 16:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 16:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[29-Mar-2019 17:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[29-Mar-2019 17:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[29-Mar-2019 17:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[30-Mar-2019 10:26:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:26:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:26:16 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:26:16 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:27:13 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:27:13 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:27:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:27:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:28:08 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:28:08 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:15 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:17 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 10:29:18 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 58
+[30-Mar-2019 10:29:18 Europe/Istanbul] PHP Notice:  Undefined variable: dolarsatis in /home/zulfumehmet/public_html/doviz/index.php on line 62
+[30-Mar-2019 10:29:18 Europe/Istanbul] PHP Notice:  Undefined variable: dolaralis in /home/zulfumehmet/public_html/doviz/index.php on line 97
+[30-Mar-2019 13:12:02 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/zulfumehmet/public_html/doviz/index.php on line 5
+[30-Mar-2019 13:12:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/zulfumehmet/public_html/doviz/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/index.php on line 5
+[30-Mar-2019 14:45:33 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 5
+[30-Mar-2019 14:45:33 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 5
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 78
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 78
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 79
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 79
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 100
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:45:34 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: kdolar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: audolar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 98
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:52:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 67
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 67
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 98
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:53:35 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 67
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 67
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 68
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 69
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 70
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 71
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 72
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 73
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 74
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 75
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 76
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 77
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 98
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:53:36 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 101
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 101
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 102
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 102
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 103
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 103
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 104
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 104
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 106
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 106
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 108
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 108
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 109
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 109
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 110
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 110
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 111
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 111
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 132
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 139
+[30-Mar-2019 14:55:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 139
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 101
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 101
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 102
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 102
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 103
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 103
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 104
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 104
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 105
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 106
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 106
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 107
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 108
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 108
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 109
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 109
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 110
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 110
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 111
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 111
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 132
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 139
+[30-Mar-2019 14:55:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 139
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 240
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 240
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 241
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 241
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 242
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 242
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 243
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 243
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 244
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 244
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 245
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 245
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 246
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 246
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 247
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 247
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 248
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 248
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 249
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 249
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 250
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 250
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 271
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 278
+[30-Mar-2019 14:58:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 278
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 341
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[30-Mar-2019 15:00:20 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 341
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:11:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 341
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:14:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: usd_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: usd_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 310
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: euro_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: euro_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 311
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: ings_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: ings_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 312
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: kgram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 313
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: isf_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: isf_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 314
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: sar_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: sar_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 315
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: jay_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: jay_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 316
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: augram_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: augram_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 317
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: nrk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 318
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: dkron_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 319
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: isk_buying in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: isk_selling in /home/zulfumehmet/public_html/doviz/aboot.php on line 320
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 341
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:14:16 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 348
+[31-Mar-2019 14:15:26 Europe/Istanbul] PHP Notice:  Undefined variable: insert in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:15:26 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 336
+[31-Mar-2019 14:15:26 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 336
+[31-Mar-2019 14:20:33 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:20:33 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:20:33 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:23:18 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:23:18 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:23:18 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:24:30 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:24:30 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:24:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:25:07 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:25:07 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:25:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:37:29 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:48:25 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:48:25 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:48:25 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:48:30 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:48:30 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:48:30 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:48:30 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:49:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:49:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:49:29 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:49:29 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:51:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:51:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:51:06 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:51:06 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:51:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:51:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:51:29 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:51:29 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:52:51 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:52:51 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:52:51 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:52:51 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:52:52 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:52:52 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:52:52 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:53:49 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:53:49 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:53:49 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:53:49 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:54:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:54:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:54:06 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:54:06 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:54:08 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[31-Mar-2019 14:54:08 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:54:08 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[31-Mar-2019 14:54:15 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:54:15 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:54:15 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:54:15 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:56:10 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:56:10 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:56:10 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:56:10 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:56:35 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:56:35 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:56:35 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:56:35 Europe/Istanbul] PHP Notice:  Undefined variable: tamalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 250
+[31-Mar-2019 14:57:03 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:57:03 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 14:59:55 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 14:59:55 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:16:32 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:17:54 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:17:54 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:17:58 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:17:58 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:17:59 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:17:59 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:18:08 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:18:08 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:23:01 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:27:23 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:27:23 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:27:45 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:27:45 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:05 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:05 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:06 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:07 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:07 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:08 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:08 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:31 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:31 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:32 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:32 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:28:38 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:28:38 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:29:28 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:29:28 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:29:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:29:29 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:31:04 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:31:04 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:31:38 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:31:38 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:31:58 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:31:58 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:32:51 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:32:51 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:33:09 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:33:09 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:33:21 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:33:21 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:33:33 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:33:33 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:33:40 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:33:40 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:33:50 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:33:50 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:34:04 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:34:04 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:36:25 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 17:36:25 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 50
+[31-Mar-2019 17:43:40 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 46
+[31-Mar-2019 17:43:40 Europe/Istanbul] PHP Notice:  Undefined variable: altinalis2 in /home/zulfumehmet/public_html/doviz/altin.php on line 48
+[31-Mar-2019 18:07:37 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis in /home/zulfumehmet/public_html/doviz/header.php on line 148
+[31-Mar-2019 18:07:37 Europe/Istanbul] PHP Notice:  Undefined variable: ingssatis in /home/zulfumehmet/public_html/doviz/header.php on line 152
+[31-Mar-2019 18:07:37 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis in /home/zulfumehmet/public_html/doviz/header.php on line 161
+[31-Mar-2019 18:07:37 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis2 in /home/zulfumehmet/public_html/doviz/header.php on line 161
+[31-Mar-2019 18:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis in /home/zulfumehmet/public_html/doviz/header.php on line 148
+[31-Mar-2019 18:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: ingssatis in /home/zulfumehmet/public_html/doviz/header.php on line 152
+[31-Mar-2019 18:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis in /home/zulfumehmet/public_html/doviz/header.php on line 161
+[31-Mar-2019 18:08:13 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis2 in /home/zulfumehmet/public_html/doviz/header.php on line 161
+[31-Mar-2019 18:15:07 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis in /home/zulfumehmet/public_html/doviz/header.php on line 175
+[31-Mar-2019 18:15:07 Europe/Istanbul] PHP Notice:  Undefined variable: ingsalis2 in /home/zulfumehmet/public_html/doviz/header.php on line 175
+[01-Apr-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 08:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 08:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 08:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 09:11:50 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 09:11:50 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 09:11:50 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 09:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 09:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 09:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 09:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 09:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 10:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 10:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 10:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 10:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 10:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 11:59:02 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 11:59:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 11:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 11:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 11:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 11:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 11:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 11:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 12:59:02 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 12:59:02 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 12:59:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 12:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 12:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 13:59:02 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 13:59:02 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 13:59:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 13:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 13:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 14:59:02 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 14:59:02 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 14:59:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 14:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 14:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 14:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 15:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 16:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 16:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 16:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 16:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 16:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 16:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 17:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[01-Apr-2019 17:59:02 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[01-Apr-2019 17:59:02 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 17:59:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[01-Apr-2019 17:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[01-Apr-2019 17:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[01-Apr-2019 17:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[02-Apr-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 08:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/aboot.php on line 322
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/aboot.php on line 329
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[02-Apr-2019 08:59:03 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 428
+[02-Apr-2019 09:30:30 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 09:30:30 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 09:30:32 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 09:30:34 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 09:30:34 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 09:30:34 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 09:49:34 Europe/Istanbul] PHP Notice:  Undefined index: kulanici_adi in /home/zulfumehmet/public_html/doviz/altind.php on line 20
+[02-Apr-2019 09:49:48 Europe/Istanbul] PHP Notice:  Undefined index: kulanici_adi in /home/zulfumehmet/public_html/doviz/altind.php on line 20
+[02-Apr-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 09:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 09:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 09:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 09:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 09:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 10:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 10:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 10:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 10:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 10:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 11:04:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/altind.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 34
+[02-Apr-2019 11:16:45 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 11:16:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/altind.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 34
+[02-Apr-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 11:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 11:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 11:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 11:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 11:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 12:57:13 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 12:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 12:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 12:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 12:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 12:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 12:59:16 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 13:00:58 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 13:10:46 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 13:11:25 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:25 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:25 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:11:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/zulfumehmet/public_html/doviz/altind.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:11:55 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:55 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:55 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:11:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/zulfumehmet/public_html/doviz/altind.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:11:58 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:58 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:11:58 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:11:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/zulfumehmet/public_html/doviz/altind.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:12:15 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:12:15 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 50
+[02-Apr-2019 13:12:15 Europe/Istanbul] PHP Notice:  Undefined variable: query in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:12:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/zulfumehmet/public_html/doviz/altind.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:32:01 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/doviz/altind.php on line 2
+[02-Apr-2019 13:32:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/doviz/altind.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/doviz/altind.php on line 51
+[02-Apr-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 13:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 13:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 13:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 13:59:04 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 13:59:04 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 14:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 14:59:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 14:59:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 14:59:06 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 14:59:06 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 15:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 15:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 15:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 15:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 15:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 16:59:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 5
+[02-Apr-2019 16:59:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 421
+[02-Apr-2019 16:59:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/doviz/boot.php on line 745
+[02-Apr-2019 16:59:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 16:59:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/doviz/boot.php on line 753
+[02-Apr-2019 17:51:20 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 45
+[02-Apr-2019 17:51:49 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 45
+[02-Apr-2019 20:00:20 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:30:28 Europe/Istanbul] PHP Notice:  Array to string conversion in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:36:31 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:37:09 Europe/Istanbul] PHP Notice:  Undefined variable: gelen_kod in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:40:48 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/zulfumehmet/public_html/altind.php on line 51
+[02-Apr-2019 20:44:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:45:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 20:45:45 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 46
+[02-Apr-2019 20:48:46 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 45
+[02-Apr-2019 20:51:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 43
+[02-Apr-2019 20:51:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 43
+[02-Apr-2019 20:52:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/zulfumehmet/public_html/altind.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 44
+[02-Apr-2019 21:03:57 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 48
+[02-Apr-2019 21:06:27 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 48
+[02-Apr-2019 21:13:04 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 59
+[02-Apr-2019 21:14:36 Europe/Istanbul] PHP Notice:  Undefined index: alis in /home/zulfumehmet/public_html/altind.php on line 48
+[02-Apr-2019 21:25:14 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ')' in /home/zulfumehmet/public_html/altind.php on line 45
+[02-Apr-2019 21:32:50 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 42
+[02-Apr-2019 21:32:50 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 48
+[02-Apr-2019 21:33:02 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 42
+[02-Apr-2019 21:33:02 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 48
+[02-Apr-2019 21:33:02 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 42
+[02-Apr-2019 21:33:02 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/zulfumehmet/public_html/altind.php on line 48
+[03-Apr-2019 09:40:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 74
+[03-Apr-2019 09:41:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:41:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:41:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:41:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:46:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:47:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 53
+[03-Apr-2019 09:57:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 21
+[03-Apr-2019 09:57:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 21
+[03-Apr-2019 09:57:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 21
+[03-Apr-2019 09:57:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/zulfumehmet/public_html/altind.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 21
+[03-Apr-2019 09:58:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 57
+[03-Apr-2019 09:58:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 57
+[03-Apr-2019 10:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: baglanti in /home/zulfumehmet/public_html/altind.php on line 22
+[03-Apr-2019 10:00:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/zulfumehmet/public_html/altind.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 22
+[03-Apr-2019 10:00:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 59
+[03-Apr-2019 10:06:57 Europe/Istanbul] PHP Notice:  Undefined index: MAX(alis) in /home/zulfumehmet/public_html/altind.php on line 43
+[03-Apr-2019 10:06:57 Europe/Istanbul] PHP Notice:  Undefined index: MIN(alis) in /home/zulfumehmet/public_html/altind.php on line 49
+[03-Apr-2019 10:06:59 Europe/Istanbul] PHP Notice:  Undefined index: MAX(alis) in /home/zulfumehmet/public_html/altind.php on line 43
+[03-Apr-2019 10:06:59 Europe/Istanbul] PHP Notice:  Undefined index: MIN(alis) in /home/zulfumehmet/public_html/altind.php on line 49
+[03-Apr-2019 10:07:03 Europe/Istanbul] PHP Notice:  Undefined index: MAX(alis) in /home/zulfumehmet/public_html/altind.php on line 43
+[03-Apr-2019 10:07:03 Europe/Istanbul] PHP Notice:  Undefined index: MIN(alis) in /home/zulfumehmet/public_html/altind.php on line 49
+[03-Apr-2019 11:24:52 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/dovizd.php on line 2
+[03-Apr-2019 11:24:52 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/dovizd.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/dovizd.php on line 36
+[03-Apr-2019 11:25:47 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/dovizd.php on line 2
+[03-Apr-2019 11:25:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/dovizd.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/dovizd.php on line 36
+[03-Apr-2019 11:25:56 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/dovizd.php on line 2
+[03-Apr-2019 11:25:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/dovizd.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/dovizd.php on line 36
+[03-Apr-2019 11:25:58 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/dovizd.php on line 2
+[03-Apr-2019 11:25:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/dovizd.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/dovizd.php on line 36
+[03-Apr-2019 12:07:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 36
+[03-Apr-2019 12:07:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 36
+[03-Apr-2019 12:07:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/altind.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/altind.php on line 36
+[03-Apr-2019 13:30:23 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 13:30:23 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 13:30:25 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 13:30:26 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 13:30:26 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 13:30:26 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 13:35:39 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 13:35:39 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 13:35:42 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 13:35:43 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 13:35:43 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 13:35:43 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 14:00:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 14:00:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 14:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 14:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 14:00:06 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 14:00:06 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 15:00:02 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 15:00:02 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 15:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 15:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 15:00:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 15:00:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 15:05:54 Europe/Istanbul] PHP Notice:  Undefined index: altin in /home/zulfumehmet/public_html/dovizd.php on line 2
+[03-Apr-2019 15:05:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home/zulfumehmet/public_html/dovizd.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zulfumehmet/public_html/dovizd.php on line 57
+[03-Apr-2019 16:00:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 16:00:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 16:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 16:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 16:00:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 16:00:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 17:00:01 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 17:00:01 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 5
+[03-Apr-2019 17:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 421
+[03-Apr-2019 17:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 745
+[03-Apr-2019 17:00:05 Europe/Istanbul] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/boot.php on line 753
+[03-Apr-2019 17:00:05 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/boot.php on line 753
+[04-Apr-2019 08:00:07 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 08:00:08 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 09:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 09:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 09:32:41 Europe/Istanbul] PHP Warning:  include(pages/header.php): failed to open stream: No such file or directory in /home/zulfumehmet/public_html/bcoin.php on line 5
+[04-Apr-2019 09:32:41 Europe/Istanbul] PHP Warning:  include(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/zulfumehmet/public_html/bcoin.php on line 5
+[04-Apr-2019 10:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 10:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 11:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 11:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 12:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 12:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 13:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 13:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 14:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 14:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 15:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 15:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 16:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 16:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[04-Apr-2019 17:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[04-Apr-2019 17:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 08:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 08:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 09:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 09:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 10:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 10:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 11:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 11:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 12:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 12:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 13:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 13:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 14:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 14:00:06 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 15:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 15:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 16:00:04 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 16:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
+[05-Apr-2019 17:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 419
+[05-Apr-2019 17:00:05 Europe/Istanbul] PHP Notice:  Undefined variable: inster3 in /home/zulfumehmet/public_html/boot.php on line 743
